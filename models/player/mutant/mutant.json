@@ -1,1 +1,419 @@
-{"seq_groups": 1, "hash": "5b56ff0dbcd955c118daa60583f28269", "tri_count": "1720"}
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "NEXON_CSO_heavy_zombie_Host",
+					"polys": 1720,
+					"verts": 902
+				}
+			],
+			"name": "studio"
+		}
+	],
+	"controllers": [],
+	"events": [
+		{
+			"event": 2001,
+			"frame": 0,
+			"options": "",
+			"sequence": 18,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 0,
+			"options": "",
+			"sequence": 19,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 0,
+			"options": "",
+			"sequence": 20,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 0,
+			"options": "",
+			"sequence": 21,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 0,
+			"options": "",
+			"sequence": 22,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 0,
+			"options": "",
+			"sequence": 23,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 0,
+			"options": "",
+			"sequence": 24,
+			"type": 0
+		}
+	],
+	"id": 1414743113,
+	"md5": "5b56ff0dbcd955c118daa60583f28269",
+	"name": "heavy.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 30.000000,
+			"frames": 105,
+			"name": "look_idle"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 105,
+			"name": "idle"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 105,
+			"name": "deep_idle"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 37,
+			"name": "run2"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 61,
+			"name": "walk2handed"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "2handshoot"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 41,
+			"name": "crawl"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 241,
+			"name": "crouch_idle"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 61,
+			"name": "jump"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 61,
+			"name": "long_jump"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 51,
+			"name": "swim"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 51,
+			"name": "treadwater"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 37,
+			"name": "run"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 61,
+			"name": "walk"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 105,
+			"name": "aim_2"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "shoot_2"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 105,
+			"name": "aim_1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "shoot_1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 69,
+			"name": "die_simple"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 53,
+			"name": "die_backwards1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 53,
+			"name": "die_backwards"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 53,
+			"name": "die_forwards"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 75,
+			"name": "headshot"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 75,
+			"name": "die_spin"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 69,
+			"name": "gutshot"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 105,
+			"name": "ref_aim_crowbar"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "ref_shoot_crowbar"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 241,
+			"name": "crouch_aim_crowbar"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 16,
+			"name": "crouch_shoot_crowbar"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "Bip01",
+			"parent": -1
+		}, 
+		{
+			"name": "Bip01 Pelvis",
+			"parent": 0
+		}, 
+		{
+			"name": "Bip01 L Thigh",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 L Calf",
+			"parent": 2
+		}, 
+		{
+			"name": "Bip01 L Foot",
+			"parent": 3
+		}, 
+		{
+			"name": "Bip01 L Toe0",
+			"parent": 4
+		}, 
+		{
+			"name": "Bip01 R Thigh",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 R Calf",
+			"parent": 6
+		}, 
+		{
+			"name": "Bip01 R Foot",
+			"parent": 7
+		}, 
+		{
+			"name": "Bip01 R Toe0",
+			"parent": 8
+		}, 
+		{
+			"name": "Bip01 Spine",
+			"parent": 0
+		}, 
+		{
+			"name": "Bip01 Spine1",
+			"parent": 10
+		}, 
+		{
+			"name": "Bip01 Neck",
+			"parent": 11
+		}, 
+		{
+			"name": "Bip01 Head",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 Ponytail1",
+			"parent": 13
+		}, 
+		{
+			"name": "Bip01 Ponytail2",
+			"parent": 13
+		}, 
+		{
+			"name": "Bip01 L Clavicle",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 L UpperArm",
+			"parent": 16
+		}, 
+		{
+			"name": "Bip01 L Forearm",
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 L Hand",
+			"parent": 18
+		}, 
+		{
+			"name": "Bip01 L Finger0",
+			"parent": 19
+		}, 
+		{
+			"name": "Bip01 L Finger01",
+			"parent": 20
+		}, 
+		{
+			"name": "Bip01 L Finger1",
+			"parent": 19
+		}, 
+		{
+			"name": "Bip01 L Finger11",
+			"parent": 22
+		}, 
+		{
+			"name": "Bip01 L ForeTwist",
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 L ForeTwist1",
+			"parent": 24
+		}, 
+		{
+			"name": "Bip01 LUpArmTwist",
+			"parent": 16
+		}, 
+		{
+			"name": "Bip01 LUpArmTwist1",
+			"parent": 26
+		}, 
+		{
+			"name": "Bip01 R Clavicle",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 R UpperArm",
+			"parent": 28
+		}, 
+		{
+			"name": "Bip01 R Forearm",
+			"parent": 29
+		}, 
+		{
+			"name": "Bip01 R Hand",
+			"parent": 30
+		}, 
+		{
+			"name": "Bip01 R Finger0",
+			"parent": 31
+		}, 
+		{
+			"name": "Bip01 R Finger01",
+			"parent": 32
+		}, 
+		{
+			"name": "Bip01 R Finger1",
+			"parent": 31
+		}, 
+		{
+			"name": "Bip01 R Finger11",
+			"parent": 34
+		}, 
+		{
+			"name": "Bone_Knife",
+			"parent": 31
+		}, 
+		{
+			"name": "Bip01 R ForeTwist",
+			"parent": 29
+		}, 
+		{
+			"name": "Bip01 R ForeTwist1",
+			"parent": 37
+		}, 
+		{
+			"name": "Bip01 RUpArmTwist",
+			"parent": 28
+		}, 
+		{
+			"name": "Bip01 RUpArmTwist1",
+			"parent": 39
+		}, 
+		{
+			"name": "Bone_BEA_R",
+			"parent": 10
+		}, 
+		{
+			"name": "Bone_BEA_L",
+			"parent": 10
+		}, 
+		{
+			"name": "Bip01 LThighTwist",
+			"parent": 10
+		}, 
+		{
+			"name": "Bip01 LThighTwist1",
+			"parent": 43
+		}, 
+		{
+			"name": "Bip01 RThighTwist",
+			"parent": 10
+		}, 
+		{
+			"name": "Bip01 RThighTwist1",
+			"parent": 45
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 526,
+			"name": "NEXON_CSO_heavy_zombi_Host.bmp",
+			"width": 512
+		}
+	],
+	"version": 10
+}
