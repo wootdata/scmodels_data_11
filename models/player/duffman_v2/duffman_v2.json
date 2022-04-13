@@ -11,12 +11,12 @@
 			"type": 0
 		}, 
 		{
-			"bone": 17,
+			"bone": 21,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 21,
+			"bone": 17,
 			"name": "",
 			"type": 0
 		}
@@ -27,7 +27,7 @@
 				{
 					"name": "duffman",
 					"polys": 2595,
-					"verts": 1376
+					"verts": 1375
 				}
 			],
 			"name": "body"
@@ -146,30 +146,30 @@
 			"type": 0
 		}, 
 		{
-			"event": 5005,
+			"event": 5011,
 			"frame": 0,
-			"options": "muzzle_SG.txt",
+			"options": "15",
 			"sequence": 65,
 			"type": 0
 		}, 
 		{
-			"event": 5005,
+			"event": 5011,
 			"frame": 0,
-			"options": "muzzle_SG.txt",
+			"options": "15",
 			"sequence": 69,
 			"type": 0
 		}, 
 		{
-			"event": 5005,
+			"event": 5011,
 			"frame": 0,
-			"options": "muzzle_MP5.txt",
+			"options": "20",
 			"sequence": 79,
 			"type": 0
 		}, 
 		{
-			"event": 5005,
+			"event": 5011,
 			"frame": 0,
-			"options": "muzzle_MP5.txt",
+			"options": "20",
 			"sequence": 83,
 			"type": 0
 		}, 
@@ -301,8 +301,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "f93104111b31450ad2d138a25ac7a20e",
-	"name": "duffman.mdl",
+	"md5": "c9ea10d4061a9e0dc918ab09bb4f3f7e",
+	"name": "C:\\Program Files\\Steam\\steamapps\\marb250\\half-life\\SvenCoop\\mode#",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -322,13 +322,13 @@
 		}, 
 		{
 			"fps": 40.000000,
-			"frames": 23,
-			"name": "run"
+			"frames": 25,
+			"name": "run2"
 		}, 
 		{
 			"fps": 20.000000,
 			"frames": 17,
-			"name": "walk"
+			"name": "walk2handed"
 		}, 
 		{
 			"fps": 20.000000,
@@ -347,7 +347,7 @@
 		}, 
 		{
 			"fps": 30.000000,
-			"frames": 34,
+			"frames": 128,
 			"name": "jump"
 		}, 
 		{
@@ -1214,54 +1214,9 @@
 			"fps": 10.000000,
 			"frames": 1,
 			"name": "ShannonCaldwell_v1.2"
-		}, 
-		{
-			"fps": 20.000000,
-			"frames": 9,
-			"name": "barnaclehit"
-		}, 
-		{
-			"fps": 25.000000,
-			"frames": 81,
-			"name": "barnaclepull"
-		}, 
-		{
-			"fps": 18.000000,
-			"frames": 36,
-			"name": "barnaclecrunch"
-		}, 
-		{
-			"fps": 15.000000,
-			"frames": 36,
-			"name": "barnaclechew"
-		}, 
-		{
-			"fps": 10.000000,
-			"frames": 21,
-			"name": "use_console_loop"
-		}, 
-		{
-			"fps": 20.000000,
-			"frames": 201,
-			"name": "use_console_loop2"
-		}, 
-		{
-			"fps": 18.000000,
-			"frames": 71,
-			"name": "action_retina"
-		}, 
-		{
-			"fps": 12.000000,
-			"frames": 81,
-			"name": "action_studycart"
-		}, 
-		{
-			"fps": 10.000000,
-			"frames": 22,
-			"name": "action_wave"
 		}
 	],
-	"size": 2379428,
+	"size": 2338008,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1353,7 +1308,7 @@
 		}
 	],
 	"skins": 1,
-	"t_model": false,
+	"t_model": true,
 	"textures": [
 		{
 			"flags": 0,

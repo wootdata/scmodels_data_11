@@ -301,8 +301,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "bca4147327053f94b9b0fcc33b49bdfe",
-	"name": "Police.mdl",
+	"md5": "0e4bcb1e9ce64209c2154fe59885e9e0",
+	"name": "C:\\Program Files\\Steam\\steamapps\\marb250\\half-life\\SvenCoop\\mode",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -1216,7 +1216,7 @@
 			"name": "ShannonCaldwell_v1.2"
 		}
 	],
-	"size": 990760,
+	"size": 934656,
 	"skeleton": [
 		{
 			"name": "Bip01",
