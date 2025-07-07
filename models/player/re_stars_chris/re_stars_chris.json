@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "5f6112cf380106b9c2d2d3ff1d4c66a0",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "RE_STARS_Chris.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

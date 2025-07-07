@@ -213,6 +213,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -771,7 +772,11 @@
 	],
 	"id": 1414743113,
 	"md5": "c735982d710a12d2fa5adcd0e83a159a",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "GF_G11.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

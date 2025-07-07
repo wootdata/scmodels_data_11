@@ -73,6 +73,7 @@
 			"name": "Shoes5"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -343,7 +344,11 @@
 	],
 	"id": 1414743113,
 	"md5": "70f769a9f915b148ddb6391186b1d738",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "ciel_freeman.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

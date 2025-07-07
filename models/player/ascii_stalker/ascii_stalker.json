@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -298,7 +299,11 @@
 	],
 	"id": 1414743113,
 	"md5": "da1b3e5e6ba7ed7e1ec6bc63883dd774",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "ascii_loner.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

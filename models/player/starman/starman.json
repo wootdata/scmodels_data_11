@@ -17,6 +17,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1269962507,
 	"events": [
@@ -254,7 +255,11 @@
 	],
 	"id": 1414743113,
 	"md5": "931b18765b58ecf9118bb9dc72cf9c52",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "starman.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

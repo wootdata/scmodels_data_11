@@ -122,6 +122,7 @@
 			"name": "mazzargh"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -392,7 +393,11 @@
 	],
 	"id": 1414743113,
 	"md5": "fa9118f1e14cb7266e30e90983d3432a",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "REZERO_emilia_mazz.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

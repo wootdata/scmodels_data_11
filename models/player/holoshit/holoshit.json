@@ -12,6 +12,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 19,
@@ -174,7 +175,11 @@
 	],
 	"id": 1414743113,
 	"md5": "50e5f2c438d540d5039a1b6faa29fdc4",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "valve/models/holo.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

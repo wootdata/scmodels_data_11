@@ -123,6 +123,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -851,7 +852,11 @@
 	],
 	"id": 1414743113,
 	"md5": "57df27d4a1fa34e797305ae16fce4b97",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "cyber_kizuna_dance.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

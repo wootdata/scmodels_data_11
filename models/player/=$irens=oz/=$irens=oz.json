@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -172,7 +173,11 @@
 	],
 	"id": 1414743113,
 	"md5": "c4ad31e485fb291214bc976be20cdce7",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\sierra\\half-life\\gearbox\\models\\player\\DM_drill\\DM_Drill.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -33,6 +33,7 @@
 			"name": "DGF"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "c7e12c7c6faa981108f85d86f210a133",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "DGF_Gingerbreadman.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

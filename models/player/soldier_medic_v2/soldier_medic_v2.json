@@ -23,6 +23,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 15,
@@ -285,7 +286,11 @@
 	],
 	"id": 1414743113,
 	"md5": "916a28d08f6f390fa7210ec1f5c4ff4a",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "soldier_medic.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

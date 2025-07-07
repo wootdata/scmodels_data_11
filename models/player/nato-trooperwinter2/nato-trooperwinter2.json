@@ -27,6 +27,7 @@
 			"name": "nvg"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1265569202,
 	"events": [
@@ -264,7 +265,11 @@
 	],
 	"id": 1414743113,
 	"md5": "9a569bea042f35a186a6f6204216adb2",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Nato-Trooperwinter2.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

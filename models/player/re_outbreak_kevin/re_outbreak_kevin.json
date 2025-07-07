@@ -33,6 +33,7 @@
 			"name": "Hunk4"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "c26354224f7a935d891ab303b2777494",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "RE_Outbreak_Kevin.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

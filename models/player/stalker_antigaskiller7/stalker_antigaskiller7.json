@@ -43,6 +43,7 @@
 			"name": "Antigas Killer"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 10,
@@ -747,7 +748,11 @@
 	],
 	"id": 1414743113,
 	"md5": "d181b62df7b058ca77d5ef492de451d2",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Models\\STALKER\\STALKER_AntigasKiller7\\STALKER_AntigasKiller7.mdlv",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

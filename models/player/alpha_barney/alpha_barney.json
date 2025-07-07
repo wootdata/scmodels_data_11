@@ -28,6 +28,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -298,7 +299,11 @@
 	],
 	"id": 1414743113,
 	"md5": "2143b289b62c3d331d248da4aa05f282",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "alpha_barney.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

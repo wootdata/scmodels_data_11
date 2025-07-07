@@ -58,6 +58,7 @@
 			"name": "backpack"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -328,7 +329,11 @@
 	],
 	"id": 1414743113,
 	"md5": "cc89a3de0206c0fa35ee97c71ef7adea",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Sanderson.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

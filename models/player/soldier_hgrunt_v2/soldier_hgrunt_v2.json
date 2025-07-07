@@ -23,6 +23,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 13,
@@ -285,7 +286,11 @@
 	],
 	"id": 1414743113,
 	"md5": "a9da1978c7c7e0d335643adf514317e0",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "soldier_hgrunt.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -53,6 +53,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 10,
@@ -645,7 +646,11 @@
 	],
 	"id": 1414743113,
 	"md5": "9c3ad155e7d8e6582fe1123da1d12dcf",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "LT_UgandaTrump.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

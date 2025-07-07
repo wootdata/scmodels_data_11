@@ -53,6 +53,7 @@
 			"name": "legs"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -345,7 +346,11 @@
 	],
 	"id": 1414743113,
 	"md5": "2d6216998638a7358e1a08c8e1c49f7d",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "sc_caroline2.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

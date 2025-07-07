@@ -273,6 +273,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -545,7 +546,11 @@
 	],
 	"id": 1414743113,
 	"md5": "4bb1bd32f8f1d82ade5545a5dc120d87",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "ZZZ_Nekomata.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

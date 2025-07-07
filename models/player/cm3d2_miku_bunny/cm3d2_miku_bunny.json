@@ -353,6 +353,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 4,
@@ -607,7 +608,11 @@
 	],
 	"id": 1414743113,
 	"md5": "6fb660c1d8a9f033570633f8ff60d2c4",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Miku.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

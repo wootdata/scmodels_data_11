@@ -48,6 +48,7 @@
 			"name": "C4"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 10,
@@ -318,7 +319,11 @@
 	],
 	"id": 1414743113,
 	"md5": "fd1846da5ab87030414526233bd79d2a",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "snipergreen.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

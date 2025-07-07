@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -310,7 +311,11 @@
 	],
 	"id": 1414743113,
 	"md5": "4dbc763cb3929fc2a3f5b182df3e4e1c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "ts_merc.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

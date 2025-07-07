@@ -18,6 +18,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 21,
@@ -264,7 +265,11 @@
 	],
 	"id": 1414743113,
 	"md5": "b4adb8ba57cfe6b98a6799192885e385",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "madbarn.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

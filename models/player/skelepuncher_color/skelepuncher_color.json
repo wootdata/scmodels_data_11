@@ -43,6 +43,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -321,7 +322,11 @@
 	],
 	"id": 1414743113,
 	"md5": "d185afbbef22fed09ab9bfcb5b8f3532",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "skelepuncher_color.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

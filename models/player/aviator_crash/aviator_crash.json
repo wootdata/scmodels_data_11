@@ -33,6 +33,7 @@
 			"name": "Aviator_Crash"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -366,7 +367,11 @@
 	],
 	"id": 1414743113,
 	"md5": "f32cbf4b69f8e81aa0971f7b7c11e9b6",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Aviator_Crash.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
