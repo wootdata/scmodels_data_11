@@ -177,6 +177,7 @@
 	"md5": "50e5f2c438d540d5039a1b6faa29fdc4",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 0,
 	"name": "valve/models/holo.mdl",
 	"preview": true,
 	"readme": false,

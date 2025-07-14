@@ -440,6 +440,7 @@
 	"md5": "35fd44e2252d7f12a65d90ebba3dcefe",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 0,
 	"name": "bgman.mdl",
 	"preview": false,
 	"readme": false,

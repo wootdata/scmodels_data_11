@@ -175,6 +175,7 @@
 	"md5": "a7fd0c18fd82ab5e757655a6df5b1bf9",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "player/soldier/soldier.mdl",
 	"preview": true,
 	"readme": true,

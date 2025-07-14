@@ -306,6 +306,7 @@
 	"md5": "30143b989b65a5da204d1a59d8ec718f",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 6,
 	"name": "ct_horse.mdl",
 	"preview": true,
 	"readme": false,

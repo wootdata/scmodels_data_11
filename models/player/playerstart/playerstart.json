@@ -306,6 +306,7 @@
 	"md5": "069a3a04d1d35fcedb21035624146728",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 7,
 	"name": "playerstart.mdl",
 	"preview": true,
 	"readme": false,

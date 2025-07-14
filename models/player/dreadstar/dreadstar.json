@@ -175,6 +175,7 @@
 	"md5": "60280502d982db2c3fd91c9b4e36ad58",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/Dreadstar/Dreadstar.mdl",
 	"preview": true,
 	"readme": true,
