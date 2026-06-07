@@ -68,7 +68,7 @@
 			"type": 8
 		}
 	],
-	"date": 1121428148,
+	"date": 1780811527,
 	"events": [
 		{
 			"event": 2001,
@@ -180,6 +180,7 @@
 	"md5": "29442824b0cfe7cc35432909b871c976",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "player/Hgrunt/Hgrunt.mdl",
 	"preview": true,
 	"readme": false,

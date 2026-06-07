@@ -68,7 +68,7 @@
 			"type": 8
 		}
 	],
-	"date": 1187309848,
+	"date": 1780811527,
 	"events": [
 		{
 			"event": 2001,
@@ -250,6 +250,7 @@
 	"md5": "ec68be703139f879ce64e6c69a948bf3",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "tfc/models/player/demo/demo.mdl",
 	"preview": false,
 	"readme": false,

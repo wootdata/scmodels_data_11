@@ -14,7 +14,7 @@
 	],
 	"colorable": false,
 	"controllers": [],
-	"date": 1579695607,
+	"date": 1780811527,
 	"events": [
 		{
 			"event": 2001,
@@ -126,6 +126,7 @@
 	"md5": "98074151d28d7b6812cd17a49cb730e2",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "D:\\Juegos\\Counter-Strike 1.6\\valve\\models\\player\\pyro\\pyro.mdl",
 	"preview": true,
 	"readme": false,

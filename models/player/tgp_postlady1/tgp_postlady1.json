@@ -68,7 +68,7 @@
 			"type": 8
 		}
 	],
-	"date": 977030392,
+	"date": 1780811527,
 	"events": [
 		{
 			"event": 2001,
@@ -180,6 +180,7 @@
 	"md5": "1697b3dac14a39ccb1f50d723bbbd1c5",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "player/gina/Gina.mdl",
 	"preview": true,
 	"readme": false,
